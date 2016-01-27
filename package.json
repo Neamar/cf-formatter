@@ -10,7 +10,7 @@
     "posttest": "istanbul check-coverage --statements 85 --branches 70 --functions 100 --lines 90 && rm -rf coverage"
   },
   "publishConfig": {
-    "registry": "http://registry.npmjs.org"
+    "registry": "https://registry.npmjs.org"
   },
   "author": "Paul Serby <paul@serby.net>",
   "license": "ISC",
